@@ -27,7 +27,7 @@ It is a single `index.html` file built with plain HTML, CSS and JavaScript, with
 - **Contact:** a contact form, a mini Spider-Man, and Email, LinkedIn and GitHub buttons.
 - **Footer:** a slim dark bar with a red top line, my "S RAFIK" logo on the left and the copyright line on the right.
 - **Download Resume:** one click saves `Shaik_Rafik_Resume.pdf`. The PDF is built into the page, so the button works without any extra file.
-- **Email button:** opens a Gmail "new message" to me on a computer, and the phone's email app on a phone. The address is not shown on the page.
+- **Email, LinkedIn and GitHub buttons:** each opens directly in a new tab. Email opens a Gmail "new message" addressed to me, and the address is not shown on the page.
 - **Browser tab icon:** my photo appears in the tab instead of the default globe.
 - **Responsive and accessible:** works from phones to wide desktops, keyboard focus outlines are visible, and animations are skipped for visitors who prefer reduced motion.
 
